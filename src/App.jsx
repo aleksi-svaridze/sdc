@@ -1,5 +1,6 @@
 import { About } from "./sections/about/About";
 import { Certifications } from "./sections/certifications/Certifications";
+import { Contact } from "./sections/contact/Contact";
 import { Footer } from "./sections/footer/Footer";
 import { Header } from "./sections/header/Header";
 import { Hero } from "./sections/hero/Hero";
@@ -15,6 +16,7 @@ function App() {
       <Services />
       <Certifications />
       <Testimonials />
+      <Contact />
       <Footer />
     </>
   );
