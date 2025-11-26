@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.main-container {
+  @apply container mx-auto px-2;
+}

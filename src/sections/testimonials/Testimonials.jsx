@@ -1,5 +1,5 @@
 import Styles from "./Testimonials.module.scss";
 
 export const Testimonials = () => {
-  return <div className={Styles.container}>Testimonials</div>;
+  return <div className={`main-container`}>Testimonials</div>;
 };

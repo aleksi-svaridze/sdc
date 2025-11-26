@@ -1,5 +1,5 @@
 // import Styles from "./Hero.module.scss";
 
 export const Hero = () => {
-  return <div className={`container`}>Hero</div>;
+  return <div className={`main-container`}>Hero</div>;
 };

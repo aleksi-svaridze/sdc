@@ -9,16 +9,16 @@ import { Testimonials } from "./sections/testimonials/Testimonials";
 
 function App() {
   return (
-    <>
+    <main>
       <Header />
       <Hero />
       <About />
       <Services />
-      <Certifications />
       <Testimonials />
+      <Certifications />
       <Contact />
       <Footer />
-    </>
+    </main>
   );
 }
 
